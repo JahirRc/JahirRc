@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jahir</h1>
-<h3 align="center">I like backend so much.</h3>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahirrc&theme=tokyonight&count_private=true" alt="jahirrc" />
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=jahirrc&show_icons=true&theme=radical"/>
