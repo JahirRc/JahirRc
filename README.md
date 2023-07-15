@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jahir</h1>
 <h3 align="center">I like backend so much.</h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahirrc&show_icons=true&locale=en&layout=compact" alt="jahirrc" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahirrc&show_icons=true&locale=en&layout=compact" alt="jahirrc" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
 
 <h3 align="center">All my learned things</h3>
 
